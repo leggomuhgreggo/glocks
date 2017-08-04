@@ -1,6 +1,6 @@
 #Glocks
 
-Mixin for styled-components for really good css-locks
+A styled-components mixin for really good css-locks
 
 ------
 
